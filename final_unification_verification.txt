@@ -1,0 +1,36 @@
+time="2026-03-10T02:20:27-03:00" level=warning msg="The \"FRONTEND_SERVER_NAME\" variable is not set. Defaulting to a blank string."
+time="2026-03-10T02:20:27-03:00" level=warning msg="The \"BACKEND_SERVER_NAME\" variable is not set. Defaulting to a blank string."
+time="2026-03-10T02:20:27-03:00" level=warning msg="C:\\Users\\w11\\Downloads\\Waticket\\whaticket-community-master\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+backend-1  | 2026/03/10 05:19:12 Waiting for: tcp://mysql:3306
+backend-1  | 2026/03/10 05:19:12 Connected to tcp://mysql:3306
+backend-1  | 
+backend-1  | [4mSequelize CLI [Node: 18.20.8, CLI: 5.5.1, ORM: 5.22.5][24m
+backend-1  | 
+backend-1  | Loaded configuration file "dist/config/database.js".
+backend-1  | No migrations were executed, database schema was already up to date.
+backend-1  | {"level":30,"time":1773119954757,"pid":38,"hostname":"623582f22e69","msg":"Server started on port: 3000"}
+backend-1  | VAI!
+backend-1  | {"level":30,"time":1773119955770,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119955771,"pid":38,"hostname":"623582f22e69","msg":"A client joined notification channel"}
+backend-1  | {"level":30,"time":1773119956081,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956136,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956190,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773119956191,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773119956191,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773119956395,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956422,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956434,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773119956495,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956509,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956518,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956523,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773119956523,"pid":38,"hostname":"623582f22e69","msg":"A client joined notification channel"}
+backend-1  | {"level":30,"time":1773119961371,"pid":38,"hostname":"623582f22e69","msg":"Session: miguel machado AUTHENTICATED"}
+backend-1  | {"level":30,"time":1773119961453,"pid":38,"hostname":"623582f22e69","msg":"Session: miguel machado READY"}
+backend-1  | {"level":30,"time":1773120008975,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773120009001,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773120009001,"pid":38,"hostname":"623582f22e69","msg":"A client joined to pending tickets channel."}
+backend-1  | {"level":30,"time":1773120009017,"pid":38,"hostname":"623582f22e69","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773120009018,"pid":38,"hostname":"623582f22e69","msg":"A client joined to open tickets channel."}
+backend-1  | {"level":30,"time":1773120011498,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773120011499,"pid":38,"hostname":"623582f22e69","msg":"Client disconnected"}

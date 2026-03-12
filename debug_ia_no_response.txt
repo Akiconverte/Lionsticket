@@ -1,0 +1,43 @@
+time="2026-03-10T01:54:59-03:00" level=warning msg="The \"FRONTEND_SERVER_NAME\" variable is not set. Defaulting to a blank string."
+time="2026-03-10T01:54:59-03:00" level=warning msg="The \"BACKEND_SERVER_NAME\" variable is not set. Defaulting to a blank string."
+time="2026-03-10T01:54:59-03:00" level=warning msg="C:\\Users\\w11\\Downloads\\Waticket\\whaticket-community-master\\docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+backend-1  | 2026/03/10 04:52:26 Waiting for: tcp://mysql:3306
+backend-1  | 2026/03/10 04:52:26 Connected to tcp://mysql:3306
+backend-1  | 
+backend-1  | [4mSequelize CLI [Node: 18.20.8, CLI: 5.5.1, ORM: 5.22.5][24m
+backend-1  | 
+backend-1  | Loaded configuration file "dist/config/database.js".
+backend-1  | No migrations were executed, database schema was already up to date.
+backend-1  | {"level":30,"time":1773118347853,"pid":38,"hostname":"cb32425b87c8","msg":"Server started on port: 3000"}
+backend-1  | VAI!
+backend-1  | {"level":30,"time":1773118354406,"pid":38,"hostname":"cb32425b87c8","msg":"Session: miguel machado AUTHENTICATED"}
+backend-1  | {"level":30,"time":1773118354480,"pid":38,"hostname":"cb32425b87c8","msg":"Session: miguel machado READY"}
+backend-1  | {"level":50,"time":1773118356703,"pid":38,"hostname":"cb32425b87c8","msg":"Erro no Agente IA: Table 'whaticket.promptfiles' doesn't exist"}
+backend-1  | {"level":40,"time":1773118356703,"pid":38,"hostname":"cb32425b87c8","msg":"Agente IA falhou para o Ticket: 2"}
+backend-1  | {"level":50,"time":1773118357254,"pid":38,"hostname":"cb32425b87c8","msg":"Erro no Agente IA: Table 'whaticket.promptfiles' doesn't exist"}
+backend-1  | {"level":40,"time":1773118357255,"pid":38,"hostname":"cb32425b87c8","msg":"Agente IA falhou para o Ticket: 2"}
+backend-1  | {"level":50,"time":1773118358559,"pid":38,"hostname":"cb32425b87c8","msg":"{\"name\":\"TokenExpiredError\",\"message\":\"jwt expired\",\"expiredAt\":\"2026-03-10T04:46:58.000Z\"}"}
+backend-1  | {"level":40,"time":1773118358566,"pid":38,"hostname":"cb32425b87c8","message":"Invalid token. We'll try to assign a new one on next request","statusCode":403}
+backend-1  | {"level":50,"time":1773118358574,"pid":38,"hostname":"cb32425b87c8","msg":"{\"name\":\"TokenExpiredError\",\"message\":\"jwt expired\",\"expiredAt\":\"2026-03-10T04:46:58.000Z\"}"}
+backend-1  | {"level":40,"time":1773118358618,"pid":38,"hostname":"cb32425b87c8","message":"Invalid token. We'll try to assign a new one on next request","statusCode":403}
+backend-1  | {"level":40,"time":1773118358622,"pid":38,"hostname":"cb32425b87c8","message":"Invalid token. We'll try to assign a new one on next request","statusCode":403}
+backend-1  | {"level":50,"time":1773118358633,"pid":38,"hostname":"cb32425b87c8","msg":"{\"name\":\"TokenExpiredError\",\"message\":\"jwt expired\",\"expiredAt\":\"2026-03-10T04:46:58.000Z\"}"}
+backend-1  | {"level":50,"time":1773118358647,"pid":38,"hostname":"cb32425b87c8","msg":"{\"name\":\"TokenExpiredError\",\"message\":\"jwt expired\",\"expiredAt\":\"2026-03-10T04:46:58.000Z\"}"}
+backend-1  | {"level":50,"time":1773118358661,"pid":38,"hostname":"cb32425b87c8","msg":"{\"name\":\"TokenExpiredError\",\"message\":\"jwt expired\",\"expiredAt\":\"2026-03-10T04:46:58.000Z\"}"}
+backend-1  | {"level":30,"time":1773118372727,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118375576,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118375582,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118377124,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118377133,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118386363,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118386374,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118386393,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118404219,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118404219,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118404226,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":30,"time":1773118406040,"pid":38,"hostname":"cb32425b87c8","msg":"Client disconnected"}
+backend-1  | {"level":30,"time":1773118406054,"pid":38,"hostname":"cb32425b87c8","msg":"Client Connected"}
+backend-1  | {"level":50,"time":1773118440371,"pid":38,"hostname":"cb32425b87c8","msg":"Erro no Agente IA: Table 'whaticket.promptfiles' doesn't exist"}
+backend-1  | {"level":40,"time":1773118440371,"pid":38,"hostname":"cb32425b87c8","msg":"Agente IA falhou para o Ticket: 2"}
+backend-1  | {"level":50,"time":1773118449866,"pid":38,"hostname":"cb32425b87c8","msg":"Erro no Agente IA: Table 'whaticket.promptfiles' doesn't exist"}
+backend-1  | {"level":40,"time":1773118449866,"pid":38,"hostname":"cb32425b87c8","msg":"Agente IA falhou para o Ticket: 2"}
